@@ -1,0 +1,16 @@
+{
+  "name": "genpark-personal-agent-cyp1a2-caffeine-metabolism-clearance-chronotype-skill",
+  "version": "1.0.0",
+  "title": "CYP1A2 Caffeine Metabolism Kinetics & Curfew Chronotype Skill",
+  "category": "Personal Agent (Bio / Pharmacogenomics)",
+  "description": "Simulates CYP1A2 SNP pharmacokinetics, paraxanthine decay curves, adenosine A1/A2A receptor blockade, and sets a personalized caffeine intake curfew.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "model_caffeine_clearance_curfew"
+  ],
+  "dependencies": []
+}
